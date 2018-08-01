@@ -1,0 +1,2 @@
+# Call-static-method
+Hearthstone
